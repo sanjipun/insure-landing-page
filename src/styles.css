@@ -1,0 +1,10 @@
+body {
+  margin: 0px;
+}
+.App {
+  font-family: sans-serif;
+}
+.ant-divider {
+  background-color: white;
+  border: 2px solid white;
+}
